@@ -1,4 +1,6 @@
 # <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" width="50px" height="50pc" /> Mensaplan
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FdotWee%2FMensaplan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FdotWee%2FMensaplan?ref=badge_shield)
+
 Eine kleine native Android Applikation, welche den wöchentlichen Speiseplan von verschiedenen Mensas in Regensburg anzeigt.
 
 <a href="https://play.google.com/store/apps/details?id=de.dotwee.rgb.canteen">
@@ -42,3 +44,6 @@ Eine kleine native Android Applikation, welche den wöchentlichen Speiseplan von
 Copyright (c) 2015 Lukas 'dotwee' Wolfsteiner
 
 Binaries und Quellcode können nach den Regeln der [Apache License, Version 2.0](LICENSE) benutzt werden.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FdotWee%2FMensaplan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FdotWee%2FMensaplan?ref=badge_large)
